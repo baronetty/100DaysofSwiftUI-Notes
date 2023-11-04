@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Checkpoint 1 = ˚C -&gt; ˚F'/>
+        <page name='100 Days of Swift'/>
+        <page name='CHeckpoint 2'/>
+        <page name='Checkpoint 3 FizzBuzz'/>
+        <page name='Checkpoint 4 functions'/>
+        <page name='Checkpoint 5 '/>
+        <page name='Checkpoint 6 Structs'/>
+        <page name='Checkpoint 7 Classes (Animals)'/>
+        <page name='Checkpoint 8 Protocols'/>
+        <page name='Checkpoint 9 Options'/>
+    </pages>
+</playground>
